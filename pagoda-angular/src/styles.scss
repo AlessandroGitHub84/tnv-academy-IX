@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/scss/bootstrap-grid';
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+h3, h4 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    color: #006c6a;
+    text-shadow: 5px 5px 7px #1e18177b;
+    font-size: 30px;
+}
+
+

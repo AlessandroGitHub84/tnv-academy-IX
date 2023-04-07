@@ -1,0 +1,50 @@
+.header{
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+.header img {
+  max-width: 100%;
+  height: auto;
+}
+.header h2{
+  font-family: 'Bebas Neue', cursive;
+}
+
+.nome-pizza {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: rgb(239, 231, 231);
+}
+
+.nome-pizza h2 {
+  
+  font-size: 7vw;
+  margin-bottom: 0em;
+}
+
+
+
+@media (max-width: 768px) {
+  .nome-pizza {
+    width: 100%;
+  }
+  
+  .nome-pizza h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 8vw;
+    margin-bottom: -0.5em;
+  }
+  
+ 
+}
+
+
+
+    
+
+  

@@ -17,7 +17,7 @@ function renderDailyDish(piatti){
     </div>
     </div>`;
     collegaAId.appendChild(liPiatto);
-    }  
+    }    
 }
 
 //Recupera i dati dal file JSON utilizzando fetch
